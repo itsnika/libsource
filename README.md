@@ -55,9 +55,7 @@ This project is licensed by Gerald Nika TM.
 Acknowledgments:
 To those students who aim knowledge.
 
-![Optional Text](screenshots/1.PNG)
-***
-![Optional Text](screenshots/2.PNG)
+![Optional Text](screenshots/1.PNG) ![Optional Text](screenshots/2.PNG)
 ***
 ![Optional Text](screenshots/3.PNG)
 ***
