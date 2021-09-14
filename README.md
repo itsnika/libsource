@@ -53,8 +53,6 @@ License:
 This project is licensed by Gerald Nika TM.
 
 Acknowledgments:
-<<<<<<< HEAD
 To those students who aim knowledge.
 
-![](screenshots/1.png)
-![](screenshots/2.png)
+![Optional Text](screenshots/1.PNG)
