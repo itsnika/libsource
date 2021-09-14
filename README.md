@@ -56,3 +56,34 @@ Acknowledgments:
 To those students who aim knowledge.
 
 ![Optional Text](screenshots/1.PNG)
+***
+![Optional Text](screenshots/2.PNG)
+***
+![Optional Text](screenshots/3.PNG)
+***
+![Optional Text](screenshots/4.PNG)
+***
+![Optional Text](screenshots/5.PNG)
+***
+![Optional Text](screenshots/6.PNG)
+***
+![Optional Text](screenshots/7.PNG)
+***
+![Optional Text](screenshots/8.PNG)
+***
+![Optional Text](screenshots/9.PNG)
+***
+![Optional Text](screenshots/10.PNG)
+***
+![Optional Text](screenshots/11.PNG)
+***
+![Optional Text](screenshots/12.PNG)
+***
+![Optional Text](screenshots/13.PNG)
+***
+![Optional Text](screenshots/14.PNG)
+***
+![Optional Text](screenshots/15.PNG)
+***
+![Optional Text](screenshots/16.PNG)
+***
