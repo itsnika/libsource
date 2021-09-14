@@ -56,7 +56,5 @@ Acknowledgments:
 <<<<<<< HEAD
 To those students who aim knowledge.
 
-![1](screenshots/1.png)
-=======
-To those students who aim knowledge.
->>>>>>> f71d3c0 (Screeenshots Folder)
+![](screenshots/1.png)
+![](screenshots/2.png)
