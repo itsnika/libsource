@@ -1,0 +1,76 @@
+body {margin: 0;font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";font-size: 1rem;font-weight: 400;line-height: 1.5;color: #212529;text-align: left;background-color: #ffffff !important;}
+.bodyError { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; font-size: 1rem; font-weight: 400; line-height: 1.5; color: #212529; text-align: left; background-color: #f9f9f9 !important }
+#navbar {background-color: #ffffff !important;border-bottom: 1px solid #e6e6e6 !important;position: fixed;width: 100%;top: 0;z-index: 5;box-shadow: 0 0 4px #d0d0d0;}
+.lead { font-size: 1.8rem !important }
+#getstartedbtn { background-color: #117a8b !important; border-color: #117a8b !important }
+#getstartedbtn:hover { background-color: #117a8b !important; border-color: #117a8b !important }
+#getstartedbtn:active { background-color: #117a8b !important; border-color: #117a8b !important }
+.cover-heading { font-size: 2.9rem }
+a { outline: none !important; text-decoration: none !important }
+input { outline: 0 }
+button { outline: none !important }
+img { -webkit-user-select: none; -khtml-user-select: none; -moz-user-select: none; -o-user-select: none; user-select: none }
+#header { padding: 16px; background-color: #dedede; color: #fff }
+#content { background: #fff; padding: 20px; height: 100% }
+#footer { background-color: #dedede; color: #5f5f5f; padding: 16px; position: relative; text-align: center }
+#header a { color: #fff; background: #525252; padding: 4px 14px; text-decoration: none; font-size: 14px; font-weight: bolder }
+#header a:hover { background: #000000 }
+form { font: 100% verdana, arial, sans-serif }
+form label { display: block; padding: 0; margin: 0 0 10px; text-align: left }
+form input, form select { padding: 4px }
+form input[type=submit]:hover { cursor: pointer; background: silver }
+form br { clear: left }
+.library-icon { height: 29px; margin-right: 10px }
+.navbar-nav { text-align: center }
+#foot { text-align: center; left: 0; right: 0; margin: auto; margin-bottom: 45px }
+.container {margin-top: 100px;margin-bottom: 40px;}
+.center-main { text-align: center }
+#logo-mini { left: 0; right: 0; margin: auto; display: block }
+.form-login { max-width: 420px; left: 0; right: 0; margin: auto; display: block; text-align: center }
+.form-register { max-width: 420px; left: 0; right: 0; margin: auto; display: block; text-align: center }
+.error_div { margin-top: 35px; text-align: center; margin-bottom: 10px }
+.error { color: red; font-size: 14px }
+.profileimage { height: 130px; position: relative; display: block; background-color: #ffffff; margin-left: 0; margin-right: 0; padding-left: 0; padding-right: 0; left: 0; right: 0 }
+.profilecredholder { width: auto; margin-left: 20px; overflow-wrap: break-word; word-break: break-all }
+.profilename { font-size: 23px }
+.profiledet { margin-bottom: 2px; color: #5d5d5d }
+#profile_flex { margin-bottom: 35px }
+.orderedimgholder { width: 130px; background-color: #e6e6e6; height: 130px }
+.orderedimage {height: 200px !important;margin: auto;width: auto;margin-top: 20px;margin-bottom: 20px;border: 3px solid white;border-radius: 4px;box-shadow: 0 0 10px #757575;}
+.orderedcredholder { width: auto; margin-left: 20px; overflow-wrap: break-word; word-break: break-all }
+#bookdet { color: #464646 !important; margin-bottom: 3px !important }
+.booktitle { font-size: 23px }
+.orderedbookcaption { font-size: 17px; margin-bottom: 20px; color: #636363; margin-top: 40px }
+.morelikethiscaption { font-size: 17px; margin-bottom: 20px; color: #636363; margin-top: 40px }
+#openbook { margin-top: 13px !important }
+.bookcard { margin-bottom: 20px; position: relative }
+#cardbook {border-radius: 5px;border: 1px solid #b9b9b9;background: linear-gradient(to right, #ffffff, #ffffff, #ffffff);box-shadow: 0 0 5px #d4d4d4;}
+.card-body { background-color: white }
+.badmin { color: #7b002a }
+.rowsettings { padding: 15px; width: 100%; margin: auto; display: inline-flex }
+#settingsrightcol { text-align: left }
+#settingsleftcol { text-align: right; height: fit-content; margin-top: 10px }
+.settingsform { display: -webkit-inline-box; width: -webkit-fill-available; height: 40px }
+#deleteaccbtn { float: right }
+#inputUsername { margin-left: 0 }
+#inputSelect { margin-left: 15px }
+#inputPassword { margin-left: 0 }
+#inputFirstName { margin-left: 0 }
+#inputLastName { margin-left: 0 }
+#inputEmail { margin-left: 0 }
+#pforgot { font-size: 13px }
+#navbarToggler { border: 0 !important }
+#dropdown { float: left !important }
+#dropdownMenu2 { background-color: white !important; color: #5d5d5d !important; border-color: #777777 }
+#fileinputspan { padding: 0; width: 100% }
+#coveruploadgroup { border: 1px solid #bdbdbd; border-radius: 3px; background-color: #f8f9fa }
+#imgInp { width: 100% }
+.selectbycaption { font-size: 17px; margin-bottom: 15px; color: #636363 }
+.card-body { border-radius: 5px }
+#inputSearch { padding-left: 0 }
+#bookdetstatusavailable { color: #28a745 !important; margin-bottom: 3px !important }
+#bookdetstatustaken { color: #dc3545 !important; margin-bottom: 3px !important }
+#bookdiv { margin: auto }
+.spannobook { color: red }
+.errorpng { height: 150px }
+#notfound { color: #4a4a4a }

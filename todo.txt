@@ -1,0 +1,38 @@
+--------------------- Immediate ---------------------
+
+-> 
+
+---------------------- Feature ----------------------
+
+-> Google API registration
+-> Book Summary
+-> Download Bootstrap to run offline
+-> See when book is available
+-> Queues on ordering books
+-> Admin sees who owns the book
+-> Edit and delete books
+-> Forgot password
+-> Send email for book return date
+
+1- Key Words – 5 vende do ishte shume mire, 
+2- Ka libra me 2 ose 3 autore, keshtu qe mendoj qe pervec autorit te pare, te jene edhe dy autore te tjere,
+3- Call Number dhe Alternation Call Number, I cili eshte I domosdoshem per te vendosur librat ne raft sipas nje renditjeje standartesh nderkombetare bibliotekare,
+4- ISBN perfaqeson nr e librit
+5- Barcode duhet fushe me vete
+6- Nje fushe duhet per cmimin sepse ndihmon  per te bere inventarin dhe ne rast se libri humbet duhet te demshperblehet.
+7- Publisher
+8- Place of publication
+9- Publication date
+10- Location
+11- Status
+
+---------------------- Errors ----------------------
+
+-> 
+
+--------------------- Warnings ---------------------
+
+-> 
+
+----------------------------------------------------
+----------------------------------------------------
